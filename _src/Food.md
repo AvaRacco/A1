@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Page
+title: Food
 ---
 
 ## This is another page I guess

@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: About
+title: Places
 ---
 
 # Hi

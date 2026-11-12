@@ -3,6 +3,5 @@ layout: layout.njk
 title: Places
 ---
 
-# Hi
 
-this is the {{title}} page
+There are so many cool places to go 

@@ -3,11 +3,10 @@ layout: layout.njk
 title: Food
 ---
 
-## This is another page I guess
 
 <div class="row">
 
-Omg look its spotted jellyfish!
+One of the best parts is eating food! Like Nutella!
 
 <div class="img">
 

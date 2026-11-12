@@ -1,15 +1,10 @@
 ---
 layout: layout.njk
-title: Home
+title: Italy
 ---
 
-# This is h1
 
-## This is h2
-
-This is a paragraph
-
-Look here's another paragraph
+What an I supposed to say here
 
 - one
 - two
@@ -17,9 +12,8 @@ Look here's another paragraph
 - I guess four
 - five
 
-## Another h2 but cooler
+## What to do in Italy
 
-- ice
-- winter
-- christmas
-- brr
+card for places
+
+card for food

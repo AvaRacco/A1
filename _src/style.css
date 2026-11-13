@@ -24,6 +24,8 @@ header {
             text-decoration: none;
             color: #f2ebd5;
             cursor: pointer;
+            font-family: "titleFont";
+            font-size: 1.5rem;
         }
     }
     }
@@ -38,4 +40,18 @@ header {
 
 .title {
     padding-top: 2vw;
+    font-size: 4rem;
+    font-family: "titleFont";
+}
+
+h1, h2, h3 {
+    font-family: "titleFont";
+    font-size: 1.5rem;
+}
+
+
+/* Google Font ------------------------------ */
+@font-face {
+    font-family: "titleFont";
+    src: url(IM_Fell_English/IMFellEnglish-Regular.ttf);
 }

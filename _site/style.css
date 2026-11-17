@@ -9,7 +9,10 @@ main {
 }
 
 header {
-    padding: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
     background-color: #590202;
     ul {
     display: flex;
@@ -31,13 +34,6 @@ header {
     }
 }
 
-.img {
-    img{
-        width: 40%;
-    }
-
-}
-
 .title {
     padding-top: 2vw;
     font-size: 4rem;
@@ -47,6 +43,87 @@ header {
 h1, h2, h3 {
     font-family: "titleFont";
     font-size: 1.5rem;
+}
+
+.wrapper {
+    display: flex;
+
+    flex-direction: column;
+}
+
+/* CARD */
+.deck {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+
+.card {
+    width: 33%;
+    border: 1px rgb(157, 157, 157) solid;
+    background-color:#dcd3b7;
+    border-radius: 10px;
+
+    transition: all 150ms;
+}
+
+.picture {
+    overflow: hidden;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.picture img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.description {
+    padding: 15px;
+    max-width: 45vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.button {
+    background-color: #034001;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: .5vw;
+    padding-bottom: .5vw;
+    width: 5.5rem;
+    border-radius: 10px;
+    a {
+            text-decoration: none;
+            color: #f2ebd5;
+            cursor: pointer;
+            font-family: "titleFont";
+            font-size: 1.5rem;
+        }
+    p {
+        margin: 0;
+    }
+}
+
+/* FOOD PAGE */
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img {
+    img{
+        width: 40%;
+    }
+
+}
+
+.info {
+    width: 50%;
 }
 
 

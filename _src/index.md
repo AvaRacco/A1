@@ -1,5 +1,5 @@
 ---
-layout: index.njk
+layout: layout.njk
 title: Italy
 ---
 
@@ -12,7 +12,7 @@ Italy is somewhere I've been planning to go for awhile, my family is Italian and
 
 <div class="picture">
 
-![Jellyfish in the water](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Jellyfish in the water](/img/map.png)
 
 </div>
 
@@ -36,7 +36,7 @@ This page talks more about the cities in Italy
 
 <div class="picture">
 
-![Jellyfish in the water](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Jellyfish in the water](/img/foodCard.jpg)
 
 </div>
 

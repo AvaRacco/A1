@@ -27,8 +27,8 @@ header {
             text-decoration: none;
             color: #f2ebd5;
             cursor: pointer;
-            font-family: "titleFont";
-            font-size: 1.5rem;
+            font-family: "IM Fell DW Pica SC", serif;
+            font-size: 1.8rem;
         }
     }
     }
@@ -36,18 +36,27 @@ header {
 
 .title {
     padding-top: 2vw;
-    font-size: 4rem;
-    font-family: "titleFont";
+    font-size: 4.5rem;
+    padding-left: 8vw;
+     font-family: "IM Fell DW Pica SC", serif;
 }
 
 h1, h2, h3 {
-    font-family: "titleFont";
-    font-size: 1.5rem;
+    font-family: "IM Fell DW Pica SC", serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
 }
 
 .wrapper {
     display: flex;
-
+    margin-left: 8vw;
+    margin-right: 8vw;
     flex-direction: column;
 }
 
@@ -73,6 +82,10 @@ h1, h2, h3 {
     overflow: hidden;
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
+
+    p {
+        margin: 0;
+    }
 }
 
 .picture img {
@@ -100,7 +113,7 @@ h1, h2, h3 {
             text-decoration: none;
             color: #f2ebd5;
             cursor: pointer;
-            font-family: "titleFont";
+            font-family: "IM Fell DW Pica SC", serif;
             font-size: 1.5rem;
         }
     p {
@@ -108,27 +121,29 @@ h1, h2, h3 {
     }
 }
 
-/* FOOD PAGE */
+/* PLACES PAGE */
 .row {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+    margin-top: 4vw;
+    gap: 3vw;
 }
 
 .img {
-    img{
-        width: 40%;
+    flex: 1;
+    img {
+        width: 100%;
+    }
+    p {
+        margin: 0;
     }
 
 }
 
 .info {
-    width: 50%;
+    flex: 1;
 }
 
+.allPlaces {
 
-/* Google Font ------------------------------ */
-@font-face {
-    font-family: "titleFont";
-    src: url(IM_Fell_English/IMFellEnglish-Regular.ttf);
 }

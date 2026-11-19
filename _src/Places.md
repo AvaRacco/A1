@@ -14,7 +14,11 @@ When looking for some places to go, traveling through all the cities/provinces/t
 
 ## Florence
 
-There are many different art galleries in Florence and if you're looking for one this is the place to look.
+There are many different art galleries in Florence and if you're looking for one this is the place to look. 
+
+The Uffizi Gallery has many artworks from the Renaissance period from painters like Raphael, Sandro Botticelli, Michelangelo and Leonardo da Vinci. The Accademia Gallery also has lots of artworks like Michelangelo's sculpture "David".
+
+You can also get to Pisa from Florence to see The Leaning Tower of Pisa.
 
 - Art
 - Museums
@@ -24,7 +28,7 @@ There are many different art galleries in Florence and if you're looking for one
 
 <div class="img">
 
-![Jellyfish in the water](/img/florence.jpg)
+![Florence](/img/florence.jpg)
 
 </div>
 
@@ -35,7 +39,7 @@ There are many different art galleries in Florence and if you're looking for one
 
 <div class="img">
 
-![Jellyfish in the water](/img/rome.jpg)
+![Rome](/img/rome.jpg)
 
 </div>
 
@@ -43,7 +47,7 @@ There are many different art galleries in Florence and if you're looking for one
 
 ## Rome
 
-Rome has lots of famous and history realted places to go like the Colosseum, Vatican City
+Rome has lots of famous and history realted places to go like the Colosseum and Vatican City. The Sistine Chapel in the Vatican City has beautiful artwork and Michelangelo's ceiling painting.
 
 - Ancient history
 
@@ -58,7 +62,7 @@ Rome has lots of famous and history realted places to go like the Colosseum, Vat
 
 ## Milan
 
-Talk, talk, talk...
+In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cathedral. The architecture is very detailed 
 
 - Fashion
 - Design
@@ -68,7 +72,7 @@ Talk, talk, talk...
 
 <div class="img">
 
-![Jellyfish in the water](/img/milan.jpg)
+![Milan](/img/milan.jpg)
 
 </div>
 
@@ -79,7 +83,7 @@ Talk, talk, talk...
 
 <div class="img">
 
-![Jellyfish in the water](/img/sicily.jpg)
+![Sicily](/img/sicily.jpg)
 
 </div>
 
@@ -87,7 +91,7 @@ Talk, talk, talk...
 
 ## Sicily
 
-Talk, talk, talk...
+Sicily is a good place to go and get pastries and to take boat tours.
 
 - Boat rides
 - Pastry shops
@@ -111,7 +115,7 @@ Talk, talk, talk...
 
 <div class="img">
 
-![Jellyfish in the water](/img/venice.jpg)
+![Venice](/img/venice.jpg)
 
 </div>
 

@@ -14,6 +14,17 @@ header {
     padding-top: 1vw;
     padding-bottom: 1vw;
     background-color: #590202;
+
+    .flag{
+        img {
+        width: 25%;
+    }
+    p {
+        margin: 0;
+    }
+    }
+
+
     ul {
     display: flex;
     justify-content: flex-end;
@@ -32,6 +43,12 @@ header {
         }
     }
     }
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .title {
@@ -71,7 +88,7 @@ h3 {
 
 .card {
     width: 33%;
-    border: 1px rgb(157, 157, 157) solid;
+    border: 2px #034001 solid;
     background-color:#dcd3b7;
     border-radius: 10px;
 

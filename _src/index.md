@@ -12,7 +12,7 @@ Italy is somewhere I've been planning to go for awhile, my family is Italian and
 
 <div class="picture">
 
-![Jellyfish in the water](/img/map.png)
+![Jellyfish in the water](/img/map2.png)
 
 </div>
 
@@ -36,7 +36,7 @@ This page talks more about the cities in Italy
 
 <div class="picture">
 
-![Jellyfish in the water](/img/foodCard.jpg)
+![Jellyfish in the water](/img/foodCard.png)
 
 </div>
 

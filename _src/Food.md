@@ -10,13 +10,13 @@ title: Food
 
 ## Pasta
 
-You can find lots of pasta in Italy, anywhere you go it will be there. My favourite is alfredo with shrimp, I cant wait to eat that when I'm there. 
+You can find lots of pasta in Italy, anywhere you go it will be there. My favourite is fettuccine alfredo, I cant wait to eat that when I'm there. 
 
 </div>
 
 <div class="img">
 
-![Jellyfish in the water](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Pasta](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
 
 </div>
 
@@ -27,7 +27,7 @@ You can find lots of pasta in Italy, anywhere you go it will be there. My favour
 
 <div class="img">
 
-![Jellyfish in the water](/img/rome.jpg)
+![Pastries](/img/rome.jpg)
 
 </div>
 
@@ -40,7 +40,10 @@ Pastries are huge in Italian culture, there are so many different kinds and i'll
 - Amaretti cookies
 - Canoli
 - Tiramisu
-- Peaches
+- Pizzelle cookies
+- Biscotti
+- Croissants (specifically with Nutella)
+- Tarallucci cookies
 
 My family makes lots of these homemade with their own recipies but I'm still looking forward to trying them in Italy.
 
@@ -61,7 +64,36 @@ You will also find coffee shops everywhere with coffee, cappuccino, and espresso
 
 <div class="img">
 
-![Jellyfish in the water](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Coffee](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+
+</div>
+
+</div>
+
+
+<div class="row">
+
+<div class="img">
+
+![Pizza](/img/rome.jpg)
+
+</div>
+
+<div class="info">
+
+## Pizza
+
+Pastries are huge in Italian culture, there are so many different kinds and i'll list some:
+
+- Amaretti cookies
+- Canoli
+- Tiramisu
+- Pizzelle cookies
+- Biscotti
+- Croissants (specifically with Nutella)
+- Tarallucci cookies
+
+My family makes lots of these homemade with their own recipies but I'm still looking forward to trying them in Italy.
 
 </div>
 

@@ -3,6 +3,9 @@ layout: layout.njk
 title: Food
 ---
 
+For food in Italy, I've listed some popular foods that you should have when you are there. Similar to things to do, different places in Italy are known for the types of food. Anywhere near the water will have seafood and my family knows Sicily has many pasrty shops.
+
+<div class= "all">
 
 <div class="row">
 
@@ -16,18 +19,18 @@ You can find lots of pasta in Italy, anywhere you go it will be there. My favour
 
 <div class="img">
 
-![Pasta](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Pasta](/img/pasta.jpg)
 
 </div>
 
 </div>
 
 
-<div class="row">
+<div class="row2">
 
 <div class="img">
 
-![Pastries](/img/rome.jpg)
+![Pastries](/img/amaretti.jpg)
 
 </div>
 
@@ -44,8 +47,6 @@ Pastries are huge in Italian culture, there are so many different kinds and i'll
 - Biscotti
 - Croissants (specifically with Nutella)
 - Tarallucci cookies
-
-My family makes lots of these homemade with their own recipies but I'm still looking forward to trying them in Italy.
 
 </div>
 
@@ -64,18 +65,18 @@ You will also find coffee shops everywhere with coffee, cappuccino, and espresso
 
 <div class="img">
 
-![Coffee](/img/bro-takes-photos-M2IZlnc4bjs-unsplash.jpg)
+![Coffee](/img/coffee.jpg)
 
 </div>
 
 </div>
 
 
-<div class="row">
+<div class="row2">
 
 <div class="img">
 
-![Pizza](/img/rome.jpg)
+![Pizza](/img/pizza.jpg)
 
 </div>
 
@@ -94,6 +95,8 @@ Pastries are huge in Italian culture, there are so many different kinds and i'll
 - Tarallucci cookies
 
 My family makes lots of these homemade with their own recipies but I'm still looking forward to trying them in Italy.
+
+</div>
 
 </div>
 

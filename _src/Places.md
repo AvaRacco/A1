@@ -4,9 +4,9 @@ title: Places
 ---
 
 
-When looking for some places to go, traveling through all the cities/provinces/towns in Italy is a good way to find all sorts of things. Each place has it's own notable landmarks to visit or is the place to go for certain foods and here are some.
+When looking for some places to go, traveling through all the cities/islands in Italy is a good way to find all sorts of things. Each place has it's own notable landmarks to visit or is the place to go for certain foods and here are some.
 
-<div class= "allPlaces">
+<div class= "all">
 
 <div class="row">
 
@@ -20,10 +20,6 @@ The Uffizi Gallery has many artworks from the Renaissance period from painters l
 
 You can also get to Pisa from Florence to see The Leaning Tower of Pisa.
 
-- Art
-- Museums
-- Architecture
-
 </div>
 
 <div class="img">
@@ -35,7 +31,7 @@ You can also get to Pisa from Florence to see The Leaning Tower of Pisa.
 </div>
 
 
-<div class="row">
+<div class="row2">
 
 <div class="img">
 
@@ -49,8 +45,6 @@ You can also get to Pisa from Florence to see The Leaning Tower of Pisa.
 
 Rome has lots of famous and history realted places to go like the Colosseum and Vatican City. The Sistine Chapel in the Vatican City has beautiful artwork and Michelangelo's ceiling painting.
 
-- Ancient history
-
 </div>
 
 </div>
@@ -62,11 +56,9 @@ Rome has lots of famous and history realted places to go like the Colosseum and 
 
 ## Milan
 
-In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cathedral. The architecture is very detailed 
+In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cathedral. The architecture is very detailed, the consstruction for it started around 1368.
 
-- Fashion
-- Design
-- Gothic Architecture 
+The Galleria Vittorio Emanuele II in Milan has lots of famous designer brands like Gucci, Prada, Balenciaga, Chanel, Dior and more. It's a shoping centre that is really popular for tourists.
 
 </div>
 
@@ -79,7 +71,7 @@ In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cath
 </div>
 
 
-<div class="row">
+<div class="row2">
 
 <div class="img">
 
@@ -92,9 +84,6 @@ In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cath
 ## Sicily
 
 Sicily is a good place to go and get pastries and to take boat tours.
-
-- Boat rides
-- Pastry shops
 
 </div>
 

@@ -2,6 +2,7 @@ body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #f2ebd5;
+    line-height: 1.5;
 }
 main {
     padding-left: 8vw;
@@ -9,6 +10,11 @@ main {
 }
 
 /* HEADER -------------------- */
+
+.current {
+    border-bottom: 6px #f2ebd5 solid;
+}
+
 header {
     padding-left: 2vw;
     padding-right: 2vw;

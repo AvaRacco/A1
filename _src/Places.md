@@ -43,7 +43,7 @@ You can also get to Pisa from Florence to see The Leaning Tower of Pisa.
 
 ## Rome
 
-Rome has lots of famous and history realted places to go like the Colosseum and Vatican City. The Sistine Chapel in the Vatican City has beautiful artwork and Michelangelo's ceiling painting.
+Rome has lots of famous history realted places to go like the Colosseum and Vatican City. The Sistine Chapel in the Vatican City has beautiful artwork and Michelangelo's ceiling painting.
 
 </div>
 
@@ -56,7 +56,7 @@ Rome has lots of famous and history realted places to go like the Colosseum and 
 
 ## Milan
 
-In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cathedral. The architecture is very detailed, the consstruction for it started around 1368.
+In Milan there is a cathedral called Duomo di Milano which is a huge Gothic cathedral. The architecture is very detailed, the construction for it started around 1368.
 
 The Galleria Vittorio Emanuele II in Milan has lots of famous designer brands like Gucci, Prada, Balenciaga, Chanel, Dior and more. It's a shoping centre that is really popular for tourists.
 
@@ -83,7 +83,9 @@ The Galleria Vittorio Emanuele II in Milan has lots of famous designer brands li
 
 ## Sicily
 
-Sicily is a good place to go and get pastries and to take boat tours.
+The Valley of the Temples in Sicily is Ancient Greek art and architecture, it's a very popular place for people to go. Island of Ortigia also has some historical things to visit, and walking around the towns to see the architecture, museums, churches and more is something recommended.
+
+The island also has boat rides and tours available, the beaches are a popular place to go.
 
 </div>
 
@@ -96,9 +98,7 @@ Sicily is a good place to go and get pastries and to take boat tours.
 
 ## Venice
 
-Talk, talk, talk...
-
-- Gondolas
+Almost all the streets in Venice are water, so taking rides in the Gondolas are popular, The Grand Canal is a big water traffic spot in Venice with lots of historic buildings where you'll find all kinds of architecture. 
 
 </div>
 

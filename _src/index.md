@@ -19,7 +19,7 @@ Italy is somewhere I've been planning to go for awhile, my family is Italian and
 <div class="description">
 
 ### Places
-This page talks more about the cities in Italy
+This page talks where to go in Italy
 
 <div class="button">
 
